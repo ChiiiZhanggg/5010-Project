@@ -1,0 +1,5 @@
+Volatility Input,Observations,Mean_Sigma,Mean_Delta,Min_Delta,Max_Delta
+VIX-Implied Volatility,741,0.1935,0.0275,-1.0,1.0
+VIX3M-Implied Volatility,741,0.2199,0.0325,-1.0,1.0
+20-Day Realized Volatility,741,0.2609,0.0743,-1.0,1.0
+60-Day Realized Volatility,624,0.2184,0.0686,-1.0,1.0

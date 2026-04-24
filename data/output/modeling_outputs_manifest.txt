@@ -1,0 +1,16 @@
+MODEL HANDOFF FILES
+C:\Users\elain\Downloads\5010-Project\data\output\bs_delta_panel.parquet
+C:\Users\elain\Downloads\5010-Project\data\output\bs_delta_panel.csv
+C:\Users\elain\Downloads\5010-Project\data\output\bs_delta_panel_README.md
+
+REPORT FIGURES
+C:\Users\elain\Downloads\5010-Project\data\output\report_figures\fig_delta_paths.png
+C:\Users\elain\Downloads\5010-Project\data\output\report_figures\fig_price_paths.png
+C:\Users\elain\Downloads\5010-Project\data\output\report_figures\table_volatility_inputs.png
+C:\Users\elain\Downloads\5010-Project\data\output\report_figures\table_model_diagnostics.png
+
+REPORT TABLE CSVS
+C:\Users\elain\Downloads\5010-Project\data\output\report_tables\table_volatility_inputs.csv
+C:\Users\elain\Downloads\5010-Project\data\output\report_tables\table_model_diagnostics.csv
+C:\Users\elain\Downloads\5010-Project\data\output\report_tables\bs_delta_summary.csv
+C:\Users\elain\Downloads\5010-Project\data\output\report_tables\episode_summary.csv

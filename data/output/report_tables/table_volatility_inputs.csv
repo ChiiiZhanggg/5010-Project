@@ -1,0 +1,5 @@
+Volatility Input,Variable,Construction,Time Variation
+VIX-Implied Volatility,iv_inception_vix,30-day implied volatility fixed at inception,Fixed within episode
+VIX3M-Implied Volatility,iv_inception_vix3m,3-month implied volatility fixed at inception,Fixed within episode
+20-Day Realized Volatility,rv_20d,Rolling realized volatility from daily returns,Updated daily
+60-Day Realized Volatility,rv_60d,Rolling realized volatility from daily returns,Updated daily
