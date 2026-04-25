@@ -3,14 +3,25 @@ C:\Users\elain\Downloads\5010-Project\data\output\bs_delta_panel.parquet
 C:\Users\elain\Downloads\5010-Project\data\output\bs_delta_panel.csv
 C:\Users\elain\Downloads\5010-Project\data\output\bs_delta_panel_README.md
 
+JOB C HEDGING HANDOFF FILES
+C:\Users\elain\Downloads\5010-Project\data\output\hedge_performance_series.parquet
+C:\Users\elain\Downloads\5010-Project\data\output\hedge_performance_series.csv
+C:\Users\elain\Downloads\5010-Project\data\output\hedge_performance_README.md
+C:\Users\elain\Downloads\5010-Project\data\output\report_tables\hedge_summary.csv
+C:\Users\elain\Downloads\5010-Project\data\output\report_tables\hedge_rebalance_frequency_summary.csv
+
 REPORT FIGURES
 C:\Users\elain\Downloads\5010-Project\data\output\report_figures\fig_delta_paths.png
 C:\Users\elain\Downloads\5010-Project\data\output\report_figures\fig_price_paths.png
 C:\Users\elain\Downloads\5010-Project\data\output\report_figures\table_volatility_inputs.png
 C:\Users\elain\Downloads\5010-Project\data\output\report_figures\table_model_diagnostics.png
+C:\Users\elain\Downloads\5010-Project\data\output\report_figures\fig_hedge_error_by_rebalance_frequency.png
+C:\Users\elain\Downloads\5010-Project\data\output\report_figures\fig_terminal_hedging_pnl_by_vol_input.png
 
 REPORT TABLE CSVS
 C:\Users\elain\Downloads\5010-Project\data\output\report_tables\table_volatility_inputs.csv
 C:\Users\elain\Downloads\5010-Project\data\output\report_tables\table_model_diagnostics.csv
 C:\Users\elain\Downloads\5010-Project\data\output\report_tables\bs_delta_summary.csv
 C:\Users\elain\Downloads\5010-Project\data\output\report_tables\episode_summary.csv
+C:\Users\elain\Downloads\5010-Project\data\output\report_tables\hedge_summary.csv
+C:\Users\elain\Downloads\5010-Project\data\output\report_tables\hedge_rebalance_frequency_summary.csv
